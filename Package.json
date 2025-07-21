@@ -1,0 +1,15 @@
+{
+  "name": "com.kenmasamaki.testunitypackage",
+  "displayName": "TestUnityPackage",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tsujiken"
+  },
+  "description": "\u30c6\u30b9\u30c8",
+  "unity": "2022.3",
+  "samples": {
+      "displayName": "Sample",
+      "description": "This is a sample.",
+      "path": "Samples~/Sample01"
+  }
+}
