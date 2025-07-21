@@ -10,6 +10,6 @@
   "samples": {
       "displayName": "Sample",
       "description": "This is a sample.",
-      "path": "Samples~/Sample01"
+      "path": "Samples/Sample01"
   }
 }
